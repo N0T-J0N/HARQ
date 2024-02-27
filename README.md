@@ -1,2 +1,3 @@
 # HARQ
-University of Hartford HARQ (Human Assistive and Robust Quadruped) repository
+![HARQ_2024](/HARQ_2024_Photo)
+
