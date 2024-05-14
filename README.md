@@ -2,7 +2,7 @@
 
 More to post once approved. Pardon my dust!
 
-## Final SolidWorks Assembly & Planetary Gearbox Assembly:
+## CAD & Physical Assemblies
 ![HARQ_2024](/HARQ_2024_Final_Assembly_2.PNG)
 ![HARQ_2024](/HARQ_2024_Leg_Photo.PNG)
 ![HARQ_2024](/HARQ_2024_Shoulder_Foot_Allignment_Photo_2.PNG)
