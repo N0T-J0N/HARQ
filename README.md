@@ -1,6 +1,6 @@
 # HARQ
 
-For more information on HARQ (Human Assistve and Robust Quadruped), please read IMECE2024-######!
+For more information on HARQ (Human Assistve and Robust Quadruped), please read IMECE2024-140747!
 
 ## CAD & Physical Assemblies
 ![HARQ_2024](/HARQ_2024_Final_Assembly_2.PNG)
